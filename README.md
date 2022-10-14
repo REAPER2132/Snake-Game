@@ -5,7 +5,7 @@ import time
 
 import random
  
-snake_speed = 15
+snake_speed = 10
  
 
 window_x = 720
