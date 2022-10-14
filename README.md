@@ -24,7 +24,8 @@ blue = pygame.Color(0, 0, 255)
 pygame.init()
  
 
-pygame.display.set_caption("Chippi's snake")
+pygame.display.set_caption("Reaper's snake")
+
 game_window = pygame.display.set_mode((window_x, window_y))
  
 
